@@ -17,3 +17,4 @@
 2. [Lab 02](https://github.com/siddartharaj06/AIML-2025/blob/main/Lab02_AIML.ipynb)
 3. [Lab 03](https://github.com/siddartharaj06/AIML-2025/blob/main/Lab03_AIML.ipynb)
 4. [Lab 04](https://github.com/siddartharaj06/AIML-2025/blob/main/LAB04_AIML.ipynb)
+5. [Lab 05](https://github.com/siddartharaj06/AIML-2025/blob/main/Lab05_AIML.ipynb)
